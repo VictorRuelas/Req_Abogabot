@@ -1,5 +1,7 @@
 # Req_Abogabot  
-Práctica 1  Tema: Requerimientos  Título: Abogabot  
+Práctica 1  
+Tema: Requerimientos  
+Título: Abogabot  
 
 Práctica para aplicar conocimientos para la toma de requerimientos en un proyecto.
 
