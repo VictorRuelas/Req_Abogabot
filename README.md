@@ -27,10 +27,3 @@ actualizaciones y agregar comentarios en cada paso del proceso de la solicitud.
 Se solicita una página web responsiva para uso en dispositivos móviles.
 Se requiere la utilización del color azul marino y blanco ya que es parte de la identidad de la empresa
 pero se admite alguna propuesta por parte del equipo de desarrollo.
-
-
-1. Toma de requerimientos
-  1.1 Buyer persona
-2. Público objetivo
-3. Wireframe UX
-4. UI
